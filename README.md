@@ -64,3 +64,4 @@ This is a Hotel Management Website. If you are a hotel manager, a website will h
 2. Open admin panel: http://127.0.0.1:8000/admin
 3. Create Room Categories and Rooms
 4. Start using the app!
+5. Video link:(https://drive.google.com/file/d/1g3fzCa0q1crbGt6a3O5x2I20cv7DqiDW/view?usp=sharing)
